@@ -1,1 +1,5 @@
-test
+Step 1: Create embeddings for each clause in your sample contracts, ideally using Azure’s text-embedding-ada-002 model or similar. Each embedding represents the clause’s semantic content.
+Step 2: Store these clause embeddings in a vector database, such as Azure Cosmos DB with a vector index or Pinecone (if you prefer a third-party solution).
+Step 3: When a new contract is uploaded, segment the contract text into likely clause sections and generate embeddings for these sections.
+Step 4: Query the vector database to retrieve the most similar clause embeddings from your stored examples.
+Step 5: Use the retrieved clauses as context in the prompt for Azure OpenAI to generate summaries or classify the clauses as present or absent.
