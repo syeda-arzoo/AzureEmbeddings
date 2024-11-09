@@ -1,0 +1,99 @@
+
+Company D Contract Document
+Contract Title: Supplier Agreement
+
+This Agreement is made and entered into as of [Date], by and between:
+
+Supplier Name: [Supplier D]
+Buyer Name: [Buyer D]
+Contract Duration: [Start Date] to [End Date]
+1. Rebates/Volume Discounts
+The Supplier offers a quarterly rebate program for high-volume buyers. Under this program, the Supplier will assess cumulative purchases for each quarter and provide a rebate if volumes meet or exceed set thresholds. Details on volume tiers and corresponding rebate percentages are listed in the contract’s addendum. Once a threshold is achieved within a quarter, the Supplier will issue a rebate calculated as a percentage of total purchases. This rebate will be in the form of a credit note for future purchases, valid through the subsequent two quarters.
+
+If the Buyer’s purchase volume crosses multiple thresholds in a single quarter, the Supplier will apply the highest applicable rebate percentage. This program is designed to encourage consistent high-volume purchases, with rebates calculated on a quarterly basis to provide predictable incentives. The Supplier will notify the Buyer of any adjustments to rebate percentages at the start of each fiscal year. Rebate credits are non-transferrable and cannot be applied retroactively. This clause represents a commitment by the Supplier to offer favorable terms to valued customers, thereby rewarding purchasing loyalty and volume.
+
+2. SLAs/Service Credits
+Under this agreement, the Supplier shall uphold a service availability level of 99.9% per month. Should the Supplier’s performance fall below this threshold, the Buyer is entitled to receive service credits as compensation. Service credits are calculated based on the percentage of downtime relative to monthly hours, with a detailed credit formula provided in Schedule C.
+
+To ensure compliance, the Supplier will conduct monthly performance reviews, with a written report provided to the Buyer by the 5th business day of each month. In cases of non-compliance with SLA thresholds for more than two consecutive months, the Buyer may escalate the issue for a corrective action plan. If the Supplier’s corrective actions fail to prevent further SLA breaches, the Buyer has the right to terminate the agreement without penalties and request additional service credits as final compensation.
+
+3. Price Protection
+Prices are guaranteed to remain unchanged for the duration of this contract. The Supplier agrees to waive any rights to price increases or adjustments due to market variations. In the event of a significant rise in market prices (defined as exceeding 10% industry-wide), the Supplier may request a reassessment of pricing terms, which will be reviewed by both parties.
+
+The Buyer may also request a market analysis if industry prices drop significantly, allowing for potential price reductions. This agreement ensures a firm price commitment while granting limited flexibility to address extreme market changes, protecting both parties from unexpected cost burdens.
+
+4. Forex
+Payments under this contract will be made in USD, but the contract rate will be adjusted quarterly based on the official Central Bank exchange rate. The adjustment threshold is set at 5%—if the rate deviates by 5% or more from the contract's base rate, the exchange rate used for payments will be updated to match the new official rate.
+
+This clause ensures that currency fluctuations are accounted for systematically, maintaining fair alignment with the prevailing exchange rates without frequent renegotiation.
+
+5. COLA/Inflation Adjustment
+If the Supplier’s raw material costs increase by more than 5% due to inflation within a six-month period, the Buyer agrees to a cost pass-through adjustment for the impacted period. This adjustment will be calculated based on verified cost increases in raw materials as reported in official industry indices.
+
+Both parties will review the pricing bi-annually to discuss and confirm any pass-through adjustments. This clause protects the Supplier against uncontrollable inflation-driven cost hikes, while the Buyer receives transparency and verification on all adjustments.
+
+6. Payment Terms
+Payment will be due monthly, subject to milestone completion approval by the Buyer. The Supplier will submit a monthly invoice for services rendered, which the Buyer must review and approve within 7 days. Payments will be processed within 15 days following approval.
+
+This milestone-based payment structure ties invoicing to performance benchmarks, ensuring that the Buyer’s obligations align with the Supplier’s progress. It provides an added layer of quality assurance and maintains cash flow for the Supplier.
+
+7. Early Payment Discounts
+A variable discount will be applied based on contract value and timing of payment:
+
+For contracts exceeding $100,000, a 2.5% discount is available if payment is made within 7 days.
+For contracts below $100,000, a 1% discount is applied if payment is made within 5 days.
+This clause customizes the discount based on the contract size, encouraging early payments for larger contracts while keeping terms flexible for smaller transactions.
+
+8. Late Payment Penalties
+Invoices not paid within 10 days of the due date will result in the forfeiture of any early payment discounts on future invoices for a period of six months. Additionally, a late fee of 1% of the overdue amount will be applied to the next invoice.
+
+This penalty leverages the Buyer’s potential savings as an incentive for timely payment, with an additional financial penalty applied directly to outstanding balances.
+
+9. Termination Provisions
+If one party commits three or more minor breaches (e.g., late payments, minor quality issues, or minor delays in delivery) within a six-month period, the other party may terminate the Agreement by providing 30 days’ written notice. The breaching party will have the right to appeal, during which time a mediation session can be scheduled to address grievances. If an agreement is not reached within the 30-day notice period, the termination will proceed.
+
+This approach allows for termination due to repeated minor breaches, encouraging consistent performance and providing an option for resolution through mediation.
+
+10. Committal/Non-Committal Contracts
+This Agreement is committal and obligates the Buyer to purchase a forecasted quantity of goods or services based on an agreed schedule outlined in Exhibit B. The Buyer shall provide the Supplier with a rolling forecast every 60 days to ensure that the Supplier can adequately prepare for production or service delivery. While the forecasted quantities are non-binding, the Buyer agrees to make reasonable efforts to meet the forecasted volume. Any shortfalls will not incur penalties, but the Buyer may be required to pay for excess inventory or overproduction if quantities are significantly above the forecasted needs. The Agreement may be terminated by either party with 30 days’ notice.
+
+This clause provides a balanced approach by requiring the Buyer to forecast their needs but still leaving room for adjustments based on actual demand.
+
+11. Force Majeure 
+Neither party shall be held responsible for failure to perform any obligation under the contract due to unforeseen circumstances or events beyond their control, such as natural disasters, war, or government intervention.
+
+12. Confidentiality 
+Both parties agree to maintain the confidentiality of sensitive information exchanged during the contract and will not disclose it to third parties without prior consent.
+
+13. Intellectual Property 
+Any intellectual property created during the contract period, including patents, trademarks, and copyrights, shall remain the exclusive property of the creator, unless otherwise specified.
+
+14. Dispute Resolution
+In the event of a dispute, both parties agree to first attempt to resolve the issue through mediation. If mediation fails, arbitration will be used to settle the dispute.
+
+15. Governing Law
+This contract shall be governed by and construed in accordance with the laws of the state or country where the supplier is based.
+
+16. Non-Compete
+The supplier agrees not to engage in any business that directly competes with the buyer's business within a specified time period and geographical location after the contract ends.
+
+17. Indemnification
+The supplier agrees to indemnify and hold harmless the buyer from any legal claims or liabilities arising from the supplier's actions, negligence, or failure to fulfill contractual obligations.
+
+18. Audit Rights 
+The buyer has the right to audit the supplier’s financial records and operations to ensure compliance with the terms and conditions of the contract.
+
+19. Performance Bonds
+The supplier agrees to provide a performance bond as security to ensure the fulfillment of all contractual obligations and the payment of any claims resulting from non-performance.
+
+20. Amendment
+Any amendments or modifications to this contract must be in writing and signed by authorized representatives of both parties.
+
+Signatures:
+
+Supplier Representative Name
+
+Buyer Representative Name
+
+Date: ____________________
+

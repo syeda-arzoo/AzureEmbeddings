@@ -1,0 +1,98 @@
+
+Company B Contract Document
+Contract Title: Supplier Agreement
+
+This Agreement is made and entered into as of [Date], by and between:
+
+Supplier Name: [Supplier B]
+Buyer Name: [Buyer B]
+Contract Duration: [Start Date] to [End Date]
+1. Rebates/Volume Discounts
+To encourage high-volume purchasing, the Supplier shall offer a tiered rebate system based on the Buyer’s cumulative annual purchase volumes. At the close of each fiscal year, the Supplier will evaluate total purchases made by the Buyer. If annual purchases reach designated volume thresholds (specified in Exhibit B), the Buyer will qualify for rebates according to a graduated scale. The rebate percentage applicable to each threshold will be applied to the year’s total purchases and will be issued as a cash rebate or account credit, at the Buyer’s discretion.
+
+Rebates will be processed within 30 days following year-end reconciliation, allowing time to account for returns, cancellations, or other adjustments. To maintain eligibility, the Buyer must remain in good standing with no overdue payments. Additionally, any significant reduction in purchases during the year may impact rebate eligibility, with specific details available in the volume rebate terms. Both parties agree that this program is intended to benefit sustained business volume, and any fraudulent or manipulative purchasing behavior will render the Buyer ineligible for rebates under this agreement.
+
+2. SLAs/Service Credits
+The Supplier guarantees adherence to the service levels outlined in Appendix B of this contract, committing to a 99.8% uptime on a quarterly basis. In the event of any service disruption, the Supplier shall respond to critical issues within 30 minutes and initiate resolution within two hours. If the cumulative downtime exceeds 1% of the quarterly hours, the Buyer is entitled to service credits.
+
+Service credits will be calculated based on the severity and duration of the incident and will be applied to the next quarter’s invoice. In cases where the Supplier repeatedly fails to meet the agreed SLA thresholds over two consecutive quarters, the Buyer may request additional credits or terminate the contract for cause. The Supplier will maintain records of all service disruptions and resolutions, which will be shared with the Buyer as part of the quarterly performance report.
+
+3. Price Protection
+Supplier agrees to cap any price increases at 2% per quarter. Prices shall remain unchanged for the first two quarters of the agreement. Starting in the third quarter, prices may be adjusted based on the Supplier’s actual increases in material costs, provided they do not exceed the 2% cap per quarter.
+
+The Buyer will be notified 30 days in advance of any proposed price adjustment, accompanied by supporting documentation. Should any adjustment exceed the cap, the Buyer reserves the right to negotiate revised terms or explore alternative suppliers. This capped escalation structure allows both parties to adapt to market changes while ensuring predictability for the Buyer.
+
+4. Forex
+In the event of significant fluctuations in the exchange rate (defined as a 7% or greater shift), the Buyer and Supplier agree to split the impact evenly, sharing the burden of exchange rate risk. Any currency adjustments will be calculated quarterly, based on the average rate over the last 90 days, and applied to future invoices.
+
+Both parties will meet at each quarter-end to review the exchange rate impacts and adjust upcoming payments accordingly. This risk-sharing mechanism promotes a fair distribution of currency risks, ensuring stability in the pricing structure.
+
+5. COLA/Inflation Adjustment
+Contract prices will be adjusted quarterly based on the official Producer Price Index (PPI), provided there is a minimum fluctuation of 2%. Any changes below this threshold will not trigger an adjustment. The revised pricing will take effect for the following quarter’s invoices.
+
+This quarterly adjustment allows for more responsive pricing to reflect cost trends while avoiding minor adjustments. Both parties agree to track and apply the quarterly index update for transparency and fair cost distribution.
+
+
+6. Payment Terms
+Payment for each order will be structured in three installments: 50% of the total contract amount will be due as an advance before work begins, 25% will be due upon delivery of goods, and the remaining 25% will be due after a successful inspection and acceptance of the goods.
+
+This staggered payment approach provides the Supplier with initial funding and partial payment upon delivery, while allowing the Buyer to withhold a portion until final acceptance to ensure product quality.
+
+7. Early Payment Discounts
+The Supplier offers a tiered early payment discount. A 3% discount is available if the Buyer pays within 5 days of the invoice date, and a 1% discount is available for payment within 15 days. Discounts are automatically deducted from the next invoice if eligibility is met.
+
+The tiered discount structure incentivizes even faster payments with a higher discount, offering flexibility while encouraging accelerated cash flow for the Supplier.
+
+8. Late Payment Penalties
+If payment is not received within 15 days past the due date, a flat late fee of $200 will be charged per invoice. This penalty will be added to the following month’s invoice and will apply to each instance of late payment within the contract period.
+
+The fixed late fee serves as a deterrent to occasional delays, providing a straightforward and predictable penalty that the Buyer can factor into their payment planning.
+
+9. Termination Provisions
+Either party may terminate this Agreement immediately if the other party commits a material breach of any provision of the Agreement and fails to cure the breach within 15 days after receiving written notice. Material breaches may include failure to meet quality standards, non-payment, or failure to deliver products in a timely manner. In the event of termination due to material breach, the non-breaching party reserves the right to seek damages.
+
+This clause provides protection by allowing immediate termination if one party fails to meet fundamental contractual obligations, supporting accountability and quality standards.
+
+10. Committal/Non-Committal Contracts
+This Agreement is committal in nature, and the Buyer agrees to purchase a minimum quantity of goods or services specified in Exhibit A. Failure to meet the minimum purchase requirement will result in a penalty fee equal to 10% of the shortfall amount, payable within 30 days. Additionally, the Buyer shall notify the Supplier in writing of any changes in the forecasted needs at least 60 days prior to the end of each calendar quarter. The agreement can be terminated by either party with a 60-day written notice, provided that the minimum purchase requirements have been met.
+
+This committal clause introduces a binding minimum purchase requirement, ensuring a predictable volume of transactions while giving both parties room for adjustments.
+
+11. Force Majeure 
+Neither party shall be held responsible for failure to perform any obligation under the contract due to unforeseen circumstances or events beyond their control, such as natural disasters, war, or government intervention.
+
+12. Confidentiality 
+Both parties agree to maintain the confidentiality of sensitive information exchanged during the contract and will not disclose it to third parties without prior consent.
+
+13. Intellectual Property 
+Any intellectual property created during the contract period, including patents, trademarks, and copyrights, shall remain the exclusive property of the creator, unless otherwise specified.
+
+14. Dispute Resolution
+In the event of a dispute, both parties agree to first attempt to resolve the issue through mediation. If mediation fails, arbitration will be used to settle the dispute.
+
+15. Governing Law
+This contract shall be governed by and construed in accordance with the laws of the state or country where the supplier is based.
+
+16. Non-Compete
+The supplier agrees not to engage in any business that directly competes with the buyer's business within a specified time period and geographical location after the contract ends.
+
+17. Indemnification
+The supplier agrees to indemnify and hold harmless the buyer from any legal claims or liabilities arising from the supplier's actions, negligence, or failure to fulfill contractual obligations.
+
+18. Audit Rights 
+The buyer has the right to audit the supplier’s financial records and operations to ensure compliance with the terms and conditions of the contract.
+
+19. Performance Bonds
+The supplier agrees to provide a performance bond as security to ensure the fulfillment of all contractual obligations and the payment of any claims resulting from non-performance.
+
+20. Amendment
+Any amendments or modifications to this contract must be in writing and signed by authorized representatives of both parties.
+
+Signatures:
+
+Supplier Representative Name
+
+Buyer Representative Name
+
+Date: ____________________
+
