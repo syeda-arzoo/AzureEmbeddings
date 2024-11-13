@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Please create a realistic, detailed contract document for a service agreement between two parties, including multiple clauses typical for such a contract. The contract should be written in a formal legal style and consist of at least 15 pages. Include a variety of clauses and sections, including but not limited to the following:
+
+1. **Title Page and Parties Involved**: Start with a cover page that includes the title of the contract, effective date, and names of both parties (e.g., a service provider and a client company).
+  
+2. **Definitions and Interpretations**: Define key terms used throughout the contract.
+  
+3. **Scope of Services**: Describe the services to be provided in detail, including deliverables, timelines, and responsibilities of each party.
+  
+4. **Payment Terms and Invoicing**: Outline payment details, including rates, invoicing procedures, late fees, and any conditions for adjusting rates.
+
+5. **Confidentiality**: Include clauses on the handling of confidential information and trade secrets, with specific terms on data protection.
+
+6. **Intellectual Property**: Outline the ownership and usage rights for any IP created during the contract term.
+
+7. **Liability and Indemnification**: Specify each party’s liability limits, indemnification responsibilities, and any exclusions.
+
+8. **Termination**: Include terms for contract termination by either party, grounds for termination, and consequences.
+
+9. **Dispute Resolution**: Outline the procedure for resolving any disputes, such as mediation or arbitration, and indicate governing law.
+
+10. **Table with Key Dates**: Insert a table with key dates, including milestones, payment dates, and deadlines.
+
+11. **Miscellaneous Provisions**: Include standard legal clauses such as 'Entire Agreement,' 'Severability,' and 'Amendments.'
+
+Each section should be clearly labeled, and you may add any other relevant clauses or tables where appropriate. The document should read as a professional legal agreement, including appropriate legal language, formatting, and structure."
+    }
+  ]
+}
