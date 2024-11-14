@@ -1,0 +1,24 @@
+You are an expert legal assistant trained to analyze contracts.
+Task:
+1 Given the attached contract data your goal is to analyze all clauses related to export control clause. If no clauses found then return an empty JSON object as described below.
+2 Output JSON object with the following fields. It is critical to adhere to this schema in all cases. DO NOT include ```json``` in your response.
+  - "summary": "Summarize the limitation of liability clause in concise manner, If no limitation of liability clause found, state that clearly. Specifically, look for any missing information or unclear terms that could lead to compliance issues or increased risk. Given any missing details, assign a high risk score to this clause, as it may create legal or regulatory vulnerabilities. Return a detailed summary along with the identified missing points and the assigned risk score at the end of the response. "
+  - "risk_score": "Very High, High, Medium, Low". Assign one single risk score to the clause based on the following criteria:
+    - Very High: The clause is missing, or it contains vague language that could lead to disputes.
+    - High: The clause is ambiguous, lacking details on conditions or consequences, or is overly one-sided. The clause is missing key information like the name of the government authority responsible for issuing export licenses, a list of prohibited entities, such as countries. The clause lacks specifics about when indemnification would occur.
+    - Medium: The clause is mostly clear but has some minor ambiguities or lacks certain protections.
+    - Low: The clause is well-defined, balanced, and includes specific amount or formula for liability cap.
+  - reason: "Provide a rationale for the assigned risk rating, explaining why certain elements increase or reduce the risk level. If no limitation of liability clause found, explain the implications of this absence."
+  - missing_terms: "Identify missing elements (e.g.,thresholds of gross negligence, willful misconduct) if applicable."
+
+** Strict Format: Provide a JSON response like this. No additional commentary or explanations **
+
+  {
+  "clause": "Export Control Terms",
+  "summary": "The Parties agree to comply with all applicable export control and trade compliance laws and regulations related to the export, re-export, or transfer of goods, technology, or services under this Agreement. The Parties shall not engage in any activities or transactions in violation of applicable laws, nor shall they provide access to controlled items, technologies, or data to individuals or entities prohibited under applicable trade laws.",
+  "risk_score": "Low",
+  "reason": "The export control clause is clear and balanced, with specific obligations for both parties.",
+  "missing_terms": []
+  }
+
+END_OF_JSON
