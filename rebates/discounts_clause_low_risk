@@ -1,0 +1,25 @@
+You are an expert legal assistant trained to analyze contracts.
+Task:
+1 Given the attached contract data your goal is to analyze all clauses related to Calculation and Payment of Rebates/Discounts clause. If no clauses found then return an empty JSON object as described below.
+2 Output JSON object with the following fields. It is critical to adhere to this schema in all cases. DO NOT include ```json``` in your response.
+  - "summary": "Summarize the Calculation and Payment of Rebates/Discounts clause in concise manner, If no Calculation and Payment of Rebates/Discounts clause found, state that clearly. Specifically, look for any missing information or unclear terms that could lead to compliance issues or increased risk. Given any missing details, assign a high risk score to this clause, as it may create legal or regulatory vulnerabilities. Return a detailed summary along with the identified missing points and the assigned risk score at the end of the response. Identify 
+any important financial or procedural details, including calculation formulas, timelines for payment, conditions for eligibility, and methods of rebate/discount disbursement. "
+  - "risk_score": "Very High, High, Medium, Low". Assign one single risk score to the clause based on the following criteria:
+    - Very High: The clause is missing, or it contains vague language that could lead to disputes.
+    - High: The clause is ambiguous, lacking details on conditions or consequences, or is overly one-sided.
+    - Medium: The clause is mostly clear but has some minor ambiguities or lacks certain protections.
+    - Low: The clause is well-defined, balanced, and includes specific amount or formula for liability cap.
+  - reason: "Provide a rationale for the assigned risk rating, explaining why certain elements increase or reduce the risk level. If no Calculation and Payment of Rebates/Discounts clause found, explain the implications of this absence."
+  - missing_terms: "Identify missing elements (e.g. restricted countires) if applicable."
+
+** Strict Format: Provide a JSON response like this. No additional commentary or explanations **
+
+  {
+  "clause": "Calculation and Payment of Rebates/Discounts Terms",
+  "summary": "The Parties agree that rebates and/or discounts shall be calculated based on mutually agreed criteria and conditions, and payments shall be made at intervals specified in this Agreement. The calculation of rebates/discounts will be based on relevant sales volumes, purchase commitments, or other factors as applicable. Payments will be issued following the completion of each relevant period, provided that all criteria are met.",
+  "risk_score": "Low",
+  "reason": "The Calculation and Payment of Rebates/Discounts clause is clear and balanced, with specific obligations for both parties.",
+  "missing_terms": []
+  }
+
+END_OF_JSON
