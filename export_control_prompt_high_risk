@@ -9,7 +9,7 @@ Task:
     - Medium: The clause is mostly clear but has some minor ambiguities or lacks certain protections.
     - Low: The clause is well-defined, balanced, and includes specific amount or formula for liability cap.
   - reason: "Provide a rationale for the assigned risk rating, explaining why certain elements increase or reduce the risk level. If no export control clause found, explain the implications of this absence."
-  - missing_terms: "Identify missing elements (e.g.,thresholds of gross negligence, willful misconduct) if applicable."
+  - missing_terms: "Identify missing elements (e.g. restricted countires) if applicable."
 
 ** Strict Format: Provide a JSON response like this. No additional commentary or explanations **
 
